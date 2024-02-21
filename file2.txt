@@ -1,3 +1,5 @@
 Ini merupakan file 2
 
 Untuk melakukan perubahan pada file 2
+
+Update text
